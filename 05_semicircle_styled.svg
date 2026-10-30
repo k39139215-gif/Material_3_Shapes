@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 160" width="140" height="160">
+  <!-- Google Material 3 Expressive: Semi Circle -->
+  <rect width="140" height="160" rx="20" fill="#FFE0B2" />
+  <g transform="translate(20, 15)">
+    <path d="M96.94903 78.19903C95.06398 80.08407 92.45982 81.25 89.58333 81.25C63.19444 81.25 36.80556 81.25 10.41667 81.25C4.6637 81.25 0 76.5863 0 70.83333C0 70.13889 0 69.44444 0 68.75C0 41.13576 22.38576 18.75 50 18.75C77.61424 18.75 100 41.13576 100 68.75C100 69.44444 100 70.13889 100 70.83333C100 73.70982 98.83407 76.31398 96.94903 78.19903Z" fill="#E65100" />
+  </g>
+  <text x="70" y="142" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#431400" text-anchor="middle">Semi Circle</text>
+</svg>

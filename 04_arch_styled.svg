@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 160" width="140" height="160">
+  <!-- Google Material 3 Expressive: Arch -->
+  <rect width="140" height="160" rx="20" fill="#D1E4FF" />
+  <g transform="translate(20, 15)">
+    <path d="M14.64466 14.64466C23.69288 5.59644 36.19288 0 50 0C77.61424 0 100 22.38576 100 50C100 61.95262 100 73.90524 100 85.85786C100 93.66835 93.66835 100 85.85786 100C61.95262 100 38.04738 100 14.14214 100C6.33165 100 0 93.66835 0 85.85786C0 73.90524 0 61.95262 0 50C0 36.19288 5.59644 23.69288 14.64466 14.64466Z" fill="#1976D2" />
+  </g>
+  <text x="70" y="142" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#002E66" text-anchor="middle">Arch</text>
+</svg>

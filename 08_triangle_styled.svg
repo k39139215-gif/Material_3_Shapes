@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 160" width="140" height="160">
+  <!-- Google Material 3 Expressive: Triangle -->
+  <rect width="140" height="160" rx="20" fill="#FFCCBC" />
+  <g transform="translate(20, 15)">
+    <path d="M50 7.78126C54.375 7.78126 58.75 9.94633 61.25 14.27645C72.5 33.76202 83.75 53.2476 95 72.73317C100 81.39342 93.75 92.21874 83.75 92.21874C61.25 92.21874 38.75 92.21874 16.25 92.21874C6.25 92.21874 0 81.39342 5 72.73317C16.25 53.2476 27.5 33.76202 38.75 14.27645C41.25 9.94633 45.625 7.78126 50 7.78126Z" fill="#D84315" />
+  </g>
+  <text x="70" y="142" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#430F00" text-anchor="middle">Triangle</text>
+</svg>
